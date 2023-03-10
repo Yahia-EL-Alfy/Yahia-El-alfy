@@ -24,5 +24,6 @@ Here are some ideas to get you started:
 
 ### :fire: My Stats :
 
-https://github-readme-streak-stats.herokuapp.com/?user=your-github-username
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yahia-El-alfy)](https://github.com/anuraghazra/github-readme-stats)
+
 
